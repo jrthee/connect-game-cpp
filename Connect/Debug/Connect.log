@@ -1,0 +1,15 @@
+﻿  Board.cpp
+  Connect.cpp
+  Connect3.cpp
+  Connect4.cpp
+  Connect5.cpp
+  CPUPlayer.cpp
+  RandomPlayer.cpp
+  RealPlayer.cpp
+C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Connect\RealPlayer.cpp(86,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Connect\RealPlayer.cpp(105,13): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Connect\Source.cpp(54,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Connect\Source.cpp(97,23): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Connect.vcxproj -> C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Debug\Connect.exe
