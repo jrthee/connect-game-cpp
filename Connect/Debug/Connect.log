@@ -1,9 +1,8 @@
-﻿  Board.cpp
+﻿  CPUPlayer.cpp
   Connect.cpp
   Connect3.cpp
   Connect4.cpp
   Connect5.cpp
-  CPUPlayer.cpp
   RandomPlayer.cpp
   RealPlayer.cpp
 C:\Users\jrmth\Documents\Julia Syracuse\Semester 5\Obj Or Programming\Visual Studio Programs\Connect\Connect\RealPlayer.cpp(86,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
