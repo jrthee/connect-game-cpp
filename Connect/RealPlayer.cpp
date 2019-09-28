@@ -1,9 +1,6 @@
 ///////////////////////////////////////////////
 // Julia Thee
-// CIS554-70618 Object Oriented Programming in C++
-// Final Project
 // Connect Game: Class RealPlayer implementation
-// Date: 09/17/2019
 ///////////////////////////////////////////////
 
 #include "RealPlayer.h"	// include definition of class RealPlayer

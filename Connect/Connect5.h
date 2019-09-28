@@ -2,10 +2,7 @@
 
 ///////////////////////////////////////////////
 // Julia Thee
-// CIS554-70618 Object Oriented Programming in C++
-// Final Project
 // Connect Game: Class Connect5 interface
-// Date: 09/17/2019
 ///////////////////////////////////////////////
 
 #ifndef __CONNECT5_H__

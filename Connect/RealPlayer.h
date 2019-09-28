@@ -2,10 +2,7 @@
 
 ///////////////////////////////////////////////
 // Julia Thee
-// CIS554-70618 Object Oriented Programming in C++
-// Final Project
 // Connect Game: Class RealPlayer interface
-// Date: 09/17/2019
 ///////////////////////////////////////////////
 
 #ifndef __REAL_PLAYER_H__

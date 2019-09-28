@@ -1,9 +1,6 @@
 ///////////////////////////////////////////////
 // Julia Thee
-// CIS554-70618 Object Oriented Programming in C++
-// Final Project
 // Connect Game: Board class member functions and member data implementations
-// Date: 09/17/2019
 ///////////////////////////////////////////////
 
 #include "Board.h"	// include definition of class Board	

@@ -1,9 +1,6 @@
 ///////////////////////////////////////////////
 // Julia Thee
-// CIS554-70618 Object Oriented Programming in C++
-// Final Project
 // Connect Game: Connect abstract-base-class implementation
-// Date: 09/17/2019
 ///////////////////////////////////////////////
 
 #include "Connect.h"	// include definition of class Connect
